@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal Dev\\MicroServices\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj": {}
+    "C:\\Personal Dev\\Simply_API\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj": {}
   },
   "projects": {
-    "C:\\Personal Dev\\MicroServices\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj": {
+    "C:\\Personal Dev\\Simply_API\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal Dev\\MicroServices\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj",
+        "projectUniqueName": "C:\\Personal Dev\\Simply_API\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj",
         "projectName": "Simple_API_Assessment",
-        "projectPath": "C:\\Personal Dev\\MicroServices\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj",
+        "projectPath": "C:\\Personal Dev\\Simply_API\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj",
         "packagesPath": "C:\\Users\\mbathan1\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal Dev\\MicroServices\\Simple_API_Assessment\\Simple_API_Assessment\\obj\\",
+        "outputPath": "C:\\Personal Dev\\Simply_API\\Simple_API_Assessment\\Simple_API_Assessment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mbathan1\\AppData\\Roaming\\NuGet\\NuGet.Config",
